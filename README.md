@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+I'm Moones! (Well like moon 🌙 but with a different meaning. If you are that curious to know the meaning, then just go through iranian dictionaries. :)
+I finished my studies in Master of Computer Science just some months ago and currently I'm working in  **[M31 S.r.l.](https://www.linkedin.com/company/m31tech/posts/?feedView=all)**
+I work as *Internship Coordinator* and *Computer Vision Engineer*. But for sure as it's obvious from being the internship coordinator, I'm interested in many many different fields!! Try me :D
+
+## 
 
 <!--
 **moonesm3/moonesm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
