@@ -1,7 +1,7 @@
 ## Hi there 👋 
 - I'm Moones! Well, like the moon 🌙 but with a different meaning. If you are that curious to know the meaning, then just go through Iranian dictionaries. :)
 - I finished my studies in Master of Computer Science in **[Padova university, Italy](https://www.unipd.it/)** just some months ago 👩🏻‍🎓, and currently I'm working at **[M31 S.r.l.](https://www.linkedin.com/company/m31tech/posts/?feedView=all)** 👩🏻‍💻
-- I work as an *Internship Coordinator* and *Computer Vision Engineer*. But for sure, as it's obvious from being the internship coordinator, I'm interested in many, many different fields!! Try me. 😉 (Or easly you can check the **[Academy website!!](https://academy.m31.com/)**
+- I work as an *Internship Coordinator* and *Computer Vision Engineer*. But for sure, as it's obvious from being the internship coordinator, I'm interested in many, many different fields!! Try me. 😉 (Or easly you can check the **[Academy website!!](https://academy.m31.com/)**)
 
 ## 
 
