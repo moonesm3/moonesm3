@@ -12,14 +12,17 @@
   <a href="https://www.linkedin.com/in/moonesmobaraki/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-    <a href="mailto:monesmobaraki@gmail.com" target="_blank">
+   
+  <a href="mailto:monesmobaraki@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/moonesnotalice/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  
   <a href="https://t.me/@moones_m3" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
   </a>
