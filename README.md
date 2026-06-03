@@ -5,10 +5,8 @@
 
 ## 
 
-#Add links to connect
 
-
-<h3>📮 How to find me in this chaotic world:</h3>
+<h3 align="center">📮 How to find me in this chaotic world:</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/moonesmobaraki/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/></a>
