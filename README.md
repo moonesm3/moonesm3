@@ -5,29 +5,20 @@
 
 ## 
 
+#Add links to connect
 
-<h3 align="center"> 📮 How to find me in this chaotic world: </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moonesmobaraki/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-   
-  <a href="mailto:monesmobaraki@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/moonesnotalice/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://t.me/@moones_m3" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
+<h3>📮 How to find me in this chaotic world:</h3>
 
+<p>
+  <a href="https://www.linkedin.com/in/moonesmobaraki/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:monesmobaraki@gmail.com@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="38" height="38" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/moonesnotalice/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="38" height="38" alt="Instagram"/></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/moones_m3" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="38" height="38" alt="Telegram"/></a>
+</p>
 </p>
 
 <!--
